@@ -1,0 +1,7 @@
+<filter>
+  <entities>
+    <entity>new_entityclasstobeincluded1</entity>
+	<entity>new_entityclasstobeincluded2</entity>
+	<entity>new_entityclasstobeincluded3</entity>
+  </entities>
+</filter>
